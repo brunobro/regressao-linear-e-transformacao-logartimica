@@ -9,3 +9,11 @@ Os exemplos explorados são: função horária de velocidade; predição do volu
 Além disso, veremos como identificar a necessidade da aplicação da transformação logarítmica empregando um índice de assimetria.
 
 O vídeo está disponível neste link: https://www.youtube.com/watch?v=KvBuqKvl2Kw
+
+**Referências**
+
+
+*   Sanford Weisberg. Applied Linear Regression, Third Edition. A John Wiley & Sons, Inc., Publication. 2005.
+* http://www.portalaction.com.br/estatistica-basica/25-coeficiente-de-assimetria
+* https://www.kaggle.com/aungpyaeap/fish-market
+*  https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
